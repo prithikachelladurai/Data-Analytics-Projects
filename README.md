@@ -10,6 +10,18 @@ Excel-based analysis of marine fuel consumption, cost, efficiency and voyage per
 MySQL project with 12 tables, basic, intermediate and advanced SQL queries,
 triggers, stored procedures and database schema.
 
-🔗 SQL Project:
-https://github.com/prithikachelladurai/Courier --> Tracking-System-SQL# Data-Analytics-Projects
+🔗MySQL project with 12 tables, basic, intermediate and advanced SQL queries, triggers, stored procedures and database schema.
+
+🔗 [View SQL Project](https://github.com/prithikachelladurai/Courier-Tracking-System-SQL)
+
 My Data Analytics projects using Power BI, Excel and SQL
+
+## Project Dashboard Previews
+
+### 📦 Courier Tracking – Power BI
+
+![Courier Tracking Dashboard](Screenshot%202026-08-07%20163525.png)
+
+### 🚢 Marine Fuel Consumption – Excel
+
+![Marine Fuel Consumption Dashboard](Screenshot%202026-09-19%20104847.png)
