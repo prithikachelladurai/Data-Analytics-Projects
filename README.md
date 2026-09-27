@@ -25,3 +25,13 @@ My Data Analytics projects using Power BI, Excel and SQL
 ### 🚢 Marine Fuel Consumption – Excel
 
 ![Marine Fuel Consumption Dashboard](Screenshot%202026-09-19%20104847.png)
+
+### 4. Supply Chain & Delivery Performance Analytics – Python
+
+Python-based analysis of supply chain orders and delivery performance using Pandas, NumPy, Matplotlib and Seaborn.
+
+Analyzed delivery delays, on-time delivery, shipping costs, warehouse performance, carrier performance and regional delivery performance.
+
+Implemented data cleaning, feature engineering, KPI analysis and visualizations. Additionally explored Machine Learning models including Logistic Regression, Decision Tree and Random Forest for delivery performance classification.
+
+🔗 [View Python Project](https://github.com/prithikachelladurai/Data-Analytics-Projects/tree/main/Supply_Chain_Delivery_Performance_Analytics)
