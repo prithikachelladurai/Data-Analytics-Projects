@@ -24,7 +24,7 @@ My Data Analytics projects using Power BI, Excel and SQL
 
 ### 🚢 Marine Fuel Consumption – Excel
 
-![Marine Fuel Consumption Dashboard](Screenshot%202026-09-19%20104847.png)
+![Marine Fuel Consumption Dashboard](Screenshot%2026-10-15%090424.png)
 
 ### 4. Supply Chain & Delivery Performance Analytics – Python
 
